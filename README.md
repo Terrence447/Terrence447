@@ -15,7 +15,7 @@ My work focuses on stochastic control, actuarial mathematics, optimal reinsuranc
 
 ### [Stochastic differential reinsurance and investment game](https://github.com/Terrence447/sdg-reinsurance-investment-no-corr)
 
-A reproducible study of a two-insurer zero-sum game under independent underwriting and financial-market risks. The repository contains the model implementation, switching-time calculations, company-by-company sensitivity analysis, research figures, and manuscript source.
+A reproducible study of a two-insurer zero-sum game under independent underwriting and financial-market risks. The repository contains the model implementation, switching-time calculations, company-by-company sensitivity analysis, baseline numerical results, and automated reproducibility checks.
 
 ## Tools
 
