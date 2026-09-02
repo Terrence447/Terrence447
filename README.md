@@ -1,19 +1,19 @@
 # Lekau Terrence Letsoalo
 
-Applied Mathematics researcher at the University of Limpopo, South Africa.
+MSc Applied Mathematics student at the University of Limpopo, South Africa.
 
-My work focuses on stochastic control, actuarial mathematics, optimal reinsurance, investment problems, and stochastic differential games. I use mathematical modelling and reproducible Python experiments to study strategic decisions under uncertainty.
+My research focuses on stochastic control, actuarial mathematics, optimal reinsurance, investment problems, and risk models. I use mathematical modelling and reproducible Python experiments to study decisions under uncertainty.
 
 ## Current research
 
-- Zero-sum stochastic differential games between competing insurers
-- Bounded investment and proportional reinsurance controls
-- Hamilton--Jacobi--Bellman--Isaacs equations
-- Deterministic switching regimes and sensitivity analysis
+- Optimal reinsurance and investment under Hawkes-type claim contagion and regime-dependent risk
+- Self-exciting claim arrivals and regime-switching financial markets
+- Hamilton--Jacobi--Bellman equations and numerical stochastic control
+- Sensitivity analysis for insurance and investment decisions
 
 ## Featured project
 
-### [Stochastic differential reinsurance and investment game](https://github.com/Terrence447/sdg-reinsurance-investment-no-corr)
+### [Honours project: stochastic differential reinsurance and investment game](https://github.com/Terrence447/sdg-reinsurance-investment-no-corr)
 
 A reproducible study of a two-insurer zero-sum game under independent underwriting and financial-market risks. The repository contains the model implementation, switching-time calculations, company-by-company sensitivity analysis, baseline numerical results, and automated reproducibility checks.
 
