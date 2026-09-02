@@ -8,7 +8,7 @@ My research focuses on stochastic control, actuarial mathematics, optimal reinsu
 
 - Optimal reinsurance and investment under Hawkes-type claim contagion and regime-dependent risk
 - Self-exciting claim arrivals and regime-switching financial markets
-- Hamilton--Jacobi--Bellman equations and numerical stochastic control
+- Hamilton-Jacobi-Bellman equations and numerical stochastic control
 - Sensitivity analysis for insurance and investment decisions
 
 ## Featured project
